@@ -1,5 +1,17 @@
 #!/bin/bash
 
+########################
+#
+# Author: Sai Prakash
+# Date: 6-6-2024
+#
+# This script was related to execute the list of users who has access for particular Repo's
+#
+# Version: v1
+#
+######################
+
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
